@@ -19,6 +19,8 @@ Question: What is the difference between a folder, a directory, and a Git reposi
 
 1. Folder and directory are interchangeable
 2. Git repo is a special type of folder
+3. Hot key to Commit/stage -> CTRL + ALT + m
+4. Hot key to actually commit is CTRL + m
 
 ## Important Info
 
