@@ -1,0 +1,24 @@
+---
+title: "Lecture Notes"
+date: "`r Sys.Date()`"
+output:   
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    code_folding: show
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE, include=TRUE, results="hold", comment=NA)
+```
+
+## August 28, 2025
+
+Question: What is the difference between a folder, a directory, and a Git repository?
+
+1. Folder and directory are interchangeable
+2. Git repo is a special type of folder
+
+## Important Info
+
