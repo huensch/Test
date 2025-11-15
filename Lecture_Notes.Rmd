@@ -33,6 +33,8 @@ Question: What is the difference between a folder, a directory, and a Git reposi
 
 usethis::create_from_github("https://github.com/huensch/Test", destdir = "~/Desktop/RProjects")
 
+Sept 2, 2025 Panopto Video (at 27:25) shows 'scenario 2' where we're cloning a repo from our github that we are NOT forking
+
 ## Sept 4, 2025
 
 1. todo checklist
