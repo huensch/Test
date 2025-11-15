@@ -31,6 +31,8 @@ Question: What is the difference between a folder, a directory, and a Git reposi
 3. usethis::create_from_github("https://github.com/huensch/practice-repo.git")
 4. usethis::create_from_github("https://github.com/Data-Sci-2025/Class-Exercise-Repo", fork=TRUE)
 
+usethis::create_from_github("https://github.com/huensch/Test", destdir = "~/Desktop/RProjects")
+
 ## Sept 4, 2025
 
 1. todo checklist
